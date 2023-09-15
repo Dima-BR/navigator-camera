@@ -1,5 +1,5 @@
  html {
-            background-image: url('/blank-living-room-interior-with-free-space.jpg');
+            background-image: url('./blank-living-room-interior-with-free-space.jpg');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center center;
